@@ -1,0 +1,16 @@
+$primary: #7C2629;
+$font: 'M PLUS 1p', sans-serif;
+$slide: #8fc866;
+$fill: #a972cb;
+
+@mixin flex($direction, $jc, $ai){
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $jc;
+  align-items: $ai;
+}
+
+@mixin font($weight){
+  font-family:'M PLUS 1p', sans-serif;
+  font-weight:$weight;
+}

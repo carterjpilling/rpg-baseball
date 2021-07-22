@@ -1,0 +1,13 @@
+{
+   "Jackrabbits":[
+       { "Name":"Player 1", "atbat":false},
+       { "Name":"Player 2", "atbat":false},
+       { "Name":"Player 3", "atbat":false},
+       { "Name":"Player 4", "atbat":false},
+       { "Name":"Player 5", "atbat":false},
+       { "Name":"Player 6", "atbat":false},
+       { "Name":"Player 7", "atbat":false},
+       { "Name":"Player 8", "atbat":false},
+       { "Name":"Player 9", "atbat":false}
+   ]
+}
